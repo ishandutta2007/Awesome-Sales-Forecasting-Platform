@@ -40,69 +40,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Clari](https://www.clari.com/)**  
-
-  Leading revenue platform focused on AI-driven forecasting, pipeline inspection, deal risk, and executive-ready forecast defensibility.
-
-
-
-- **[BoostUp](https://www.boostup.ai/)**  
-
-  Modern revenue intelligence and forecasting platform emphasizing configurable methodologies, deal inspection, and RevOps workflows.
-
-
-
-- **[Aviso / Aviso AI](https://www.aviso.com/)**  
-
-  Long-running AI forecasting specialist with predictive modeling, deal guidance, and revenue intelligence capabilities.
-
-
-
-- **[People.ai](https://www.people.ai/)**  
-
-  Activity-capture and revenue-intelligence platform that improves forecast inputs by automatically capturing seller activity and relationship data.
-
-
-
-- **[Anaplan](https://www.anaplan.com/)**  
-
-  Connected planning platform frequently used for sales forecasting and broader revenue planning linked to finance.
-
-
-
-- **[InsightSquared / Mediafly Intelligence360](https://www.mediafly.com/)**  
-
-  Sales analytics and forecasting capabilities now part of the broader Mediafly revenue-enablement suite.
-
-
-
-- **[Xactly Forecasting](https://www.xactlycorp.com/)**  
-
-  Forecasting and sales-performance capabilities within the Xactly SPM ecosystem.
-
-
-
-- **[Revenue Grid](https://www.revenuegrid.com/)**  
-
-  Guided selling, activity intelligence, and forecasting platform with strong CRM integration.
-
-
-
-- **[Gong Forecast](https://www.gong.io/)**  
-
-  Forecasting capabilities within Gong’s revenue-intelligence platform, leveraging conversation and pipeline signals.
-
-
-
-- **[Varicent Forecasting](https://www.varicent.com/)**  
-
-  Forecasting and sales-performance features within the Varicent SPM suite.
-
-
-
-- **[SalesChoice, Pipeline CRM and related tools](https://github.com/)**  
-
-  Additional commercial forecasting and pipeline-management solutions used by mid-market and specialized teams.
+| Platform | Description | Pricing (Starting Tiers) | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Clari](https://www.clari.com/)** | AI-driven revenue intelligence and forecasting platform with deal inspection, commit prediction, and pipeline analytics. | Starts at ~$100–$120/user/mo (billed annually; base platform contracts typically ~$15,000–$25,000/yr; add-on modules $60–$160/user/mo) | No free tier or self-serve trial; sales-assisted live demo & custom POC available upon request |
+| **[BoostUp](https://www.boostup.ai/)** | Configurable revenue intelligence and sales forecasting platform featuring deal risk scoring, pipeline progression, and RevOps workflow automation. | Starts at ~$51–$100/user/mo (annual contracts; typical mid-market deployments range from ~$20,000–$50,000/yr) | No free tier or self-serve trial; sales-led demo and custom 48-hour Proof of Concept (PoC) available upon request |
+| **[Aviso AI](https://www.aviso.com/)** | Predictive AI forecasting and deal guidance platform delivering ML win-score predictions, CRM data enrichment, and conversation intelligence. | Starts at ~$50–$80/user/mo (annual commitments; typical enterprise ACVs around ~$50,000–$75,000/yr) | No free tier or self-serve trial; custom live demo and guided pilot evaluation upon request |
+| **[People.ai](https://www.people.ai/)** | Enterprise revenue intelligence platform that automates activity and contact capture into CRMs to feed AI-driven pipeline and forecast models. | Starts at ~$50–$100/user/mo (annual billing; median enterprise contract values ~$50,000–$100,000+/yr) | No free tier or self-serve trial; guided product tour and enterprise sales demo upon request |
+| **[Anaplan](https://www.anaplan.com/)** | Enterprise connected planning platform linking sales territory and quota planning, pipeline forecasting, and financial revenue models. | Starts at ~$30,000–$50,000/year base tier (scales by user roles from ~$50–$115/user/mo plus workspace capacity) | No standard free tier; 90-day free trial workspace available via Anaplan Talent Builder / Academy training program (or sales-guided demo) |
+| **[InsightSquared / Mediafly Intelligence360](https://www.mediafly.com/)** | Revenue enablement and sales analytics suite offering machine-learning forecasting, interactive pipeline drill-downs, and activity tracking. | Starts at ~$51–$100/user/mo (or base package starting at ~$16,000–$38,000/yr for revenue intelligence tiers) | No free tier or self-serve trial; guided interactive demo and customized product tour upon request |
+| **[Xactly Forecasting](https://www.xactlycorp.com/)** | Sales performance management and pipeline forecasting module that predicts deal slippage and combines incentive compensation with revenue projections. | Starts at ~$40/user/mo for small teams (SimplyComp) / ~$85–$125/user/mo for enterprise forecasting suites (annual billing) | No free tier or self-serve trial; personalized live demo and assessment available upon request |
+| **[Revenue Grid](https://www.revenuegrid.com/)** | Revenue operations and sales forecasting engine featuring automated activity capture, pipeline signals, and guided selling sequences inside CRM. | Starts at $49/user/mo (Activity Capture 360) up to $149/user/mo (Ultimate tier with full Forecasting, billed annually) | 14-day free trial available (full feature access via web signup or Salesforce AppExchange, no credit card required) |
+| **[Gong Forecast](https://www.gong.io/)** | Revenue intelligence platform providing AI forecasting grounded in customer conversations, deal progression signals, and pipeline tracking. | Starts at ~$100–$135/user/mo ($1,200–$1,600/user/yr) + mandatory base platform fee ($5,000–$30,000+/yr depending on company size) | No free tier or self-serve trial; private interactive demo and custom enterprise pilot available upon request |
+| **[Varicent Forecasting](https://www.varicent.com/)** | Enterprise sales planning and revenue forecasting solution combining quota capacity models, deal commit tracking, and sales performance analytics. | Starts at ~$56–$90/user/mo (annual contracts; enterprise deployments typically start around $25,000–$50,000/yr) | No free tier or self-serve trial; structured interactive demo and custom evaluation upon request |
+| **[SalesChoice](https://www.saleschoice.com/)** | AI-driven predictive sales analytics and forecasting add-on for Salesforce providing win/loss probability scores and deal risk alerts. | Starts at $60 CAD (~$45 USD)/user/mo (available on Salesforce AppExchange; requires Salesforce subscription) | No free tier; offers guided demo / trial pilot arranged with sales team on request |
+| **[Pipeline CRM](https://www.pipelinecrm.com/)** | Mid-market CRM and sales pipeline management platform featuring visual deal tracking, revenue forecasting dashboards, and team activity reporting. | Starts at $25/user/mo (Start), $33/user/mo (Develop), $49/user/mo (Grow plan with full forecasting, billed annually) | 14-day free trial on the Grow plan (full access to forecasting and reporting features, no credit card required) |
 
 
 
