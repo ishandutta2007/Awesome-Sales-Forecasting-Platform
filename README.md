@@ -215,3 +215,12 @@ Star the repo if you find it useful!
 **Made for CROs, RevOps, and sales leaders who want forecasts they can actually defend.**
 
 Let's keep the numbers honest, the process transparent, and the tools as open as practical.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Sales-Forecasting-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Sales-Forecasting-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Sales-Forecasting-Platform_growth.svg">
+  </picture>
+</a>
