@@ -73,7 +73,7 @@
 
 ## 💻 Open-Source GitHub Projects
 
-*The open-source projects below provide time-series forecasting algorithms, Bayesian models, neural networks, and automated pipeline scripts for sales prediction. Ranked in descending order of GitHub stars.*
+*The open-source projects below provide time-series forecasting algorithms, Bayesian models, neural networks, and automated pipeline scripts for sales prediction. Ranked in descending order of GitHub_Stars.*
 
 - **[facebook/prophet](https://github.com/facebook/prophet)** [![Stars](https://img.shields.io/github/stars/facebook/prophet?style=social&color=white)](https://github.com/facebook/prophet/stargazers)  
   *Decomposable time-series model (trend, seasonality, holidays) designed for business forecasting, capacity planning, and revenue projections at scale.*
